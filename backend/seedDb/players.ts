@@ -1,7 +1,7 @@
 exports.PlayerData = [
   {
     imgURL:
-      "https://www.allsvenskan.se/lagen/aik/_/image/04d6c0c1-b7df-45d6-9288-b635b2518e0b:80febbf37b4e8fea18bbfccb6cfdbfcd4046dc80/width-100/166338.jpg",
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Kristoffer-Nordfeldt-600x871.jpg",
     name: "Kristoffer Nordfeldt",
     number: "15",
     born: "1989-06-23",
@@ -12,7 +12,7 @@ exports.PlayerData = [
   },
   {
     imgURL:
-      "https://www.allsvenskan.se/lagen/aik/_/image/1f60fc8c-97b2-4d0e-bdf2-a7f9ae942b51:81003176d75b8b7d155bf6396c93b47fe0169b71/width-100/985077.jpg",
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Budimir-Janosevic-600x871.jpg",
     name: "Budimir Janosevic",
     number: "23",
     born: "1989-10-21",
@@ -23,7 +23,7 @@ exports.PlayerData = [
   },
   {
     imgURL:
-      "https://www.allsvenskan.se/lagen/aik/_/image/080fd27c-2378-4f29-bc1b-736b34ff0df4:80cea891d75c32904ac8d01c9b1d9d00d4a5cbf6/width-100/308416.jpg",
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Sotirios-Papagiannopoulos-600x871.jpg",
     name: "Sotirios Papagiannopoulos",
     number: "4",
     born: "1990-09-05",
@@ -34,7 +34,7 @@ exports.PlayerData = [
   },
   {
     imgURL:
-      "https://www.allsvenskan.se/lagen/aik/_/image/c02e835d-932f-4bf9-9a90-6ec288da875c:eead28b8d3b6597149967fff69b74f338c999301/width-100/403629.jpg",
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Alexander-Milosevic-600x871.jpg",
     name: "Alexander Milošević",
     number: "5",
     born: "1992-01-30",
@@ -45,7 +45,7 @@ exports.PlayerData = [
   },
   {
     imgURL:
-      "https://www.allsvenskan.se/lagen/aik/_/image/7b991654-865f-4332-9e04-2085b6903fb2:7725f5e9350f65382fd2fa409cae0d0fb9cc96b9/width-100/571145.jpg",
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Jetmir-Haliti-600x871.jpg",
     name: "Jetmir Haliti",
     number: "6",
     born: "1996-09-14",
@@ -56,7 +56,7 @@ exports.PlayerData = [
   },
   {
     imgURL:
-      "https://www.allsvenskan.se/lagen/aik/_/image/117eedd8-2fea-4bbd-aabd-38f264b7728e:177b4f17a31c99b4144fd01ac8359e1280a8dfd0/width-100/501662.jpg",
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/07/BB230621JW0434-600x900.jpg",
     name: "Axel Björnström",
     number: "12",
     born: "1995-09-10",
@@ -67,7 +67,7 @@ exports.PlayerData = [
   },
   {
     imgURL:
-      "https://www.allsvenskan.se/lagen/aik/_/image/569dde35-821a-4ce4-a190-2262cd14029a:7e8c8158aba7155973db233a02ec8bc1174f3c6b/width-100/814164.jpg",
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Robin-Tihi-600x871.jpg",
     name: "Robin Tihi",
     number: "16",
     born: "2002-03-16",
@@ -89,7 +89,7 @@ exports.PlayerData = [
   },
   {
     imgURL:
-      "https://www.allsvenskan.se/lagen/aik/_/image/fb01e18e-c76e-4953-9bcb-ffa4c6e9e919:8da4f32c40359c02331e8044c75b2373175612a4/width-100/1071149.jpg",
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Erick-Otieno-600x871.jpg",
     name: "Erick Otieno",
     number: "25",
     born: "1996-09-27",
@@ -99,7 +99,8 @@ exports.PlayerData = [
     club: "AIK",
   },
   {
-    imgURL: "",
+    imgURL:
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Rui-Modesto-600x871.jpg",
     name: "Rui Modesto",
     number: "32",
     born: "1999-10-07",
@@ -120,7 +121,7 @@ exports.PlayerData = [
   },
   {
     imgURL:
-      "https://www.allsvenskan.se/lagen/aik/_/image/3d9f55e0-752e-4c41-91fd-84d3018669f1:03ecac387724e7783affa05b1ad1d54f0ffca2c8/width-100/734234.jpg",
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Bilal-Hussein-600x871.jpg",
     name: "Bilal Hussein",
     number: "8",
     born: "2000-04-22",
@@ -142,7 +143,7 @@ exports.PlayerData = [
   },
   {
     imgURL:
-      "https://www.allsvenskan.se/lagen/aik/_/image/afef71fb-e59c-42ea-b9d3-c5da5dee0795:bf1fd6b923863d5a3fcf1c2878b7a458c506400f/width-100/1049040.jpg",
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Abdussalam-Magashy-600x871.jpg",
     name: "Abdussalam Magashy",
     number: "14",
     born: "1998-04-06",
@@ -152,7 +153,8 @@ exports.PlayerData = [
     club: "AIK",
   },
   {
-    imgURL: "",
+    imgURL:
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/07/BB230621JW0433-600x900.jpg",
     name: "Dino Besirovic",
     number: "19",
     born: "1994-01-31",
@@ -163,7 +165,7 @@ exports.PlayerData = [
   },
   {
     imgURL:
-      "https://www.allsvenskan.se/lagen/aik/_/image/64fa123e-8813-402f-a8ba-291895a21213:3dd8f462ad1660ef7ad4e71edcbb3c53b2c1159a/width-100/1229941.jpg",
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Zachary-Elbouzedi-600x871.jpg",
     name: "Zachary Elbouzedi",
     number: "20",
     born: "1998-04-05",
@@ -174,7 +176,7 @@ exports.PlayerData = [
   },
   {
     imgURL:
-      "https://www.allsvenskan.se/lagen/aik/_/image/09cfabd8-b9eb-479c-88c5-1df448718665:4b9fc710fd211796d3e728ceb61113f63a9f8b68/width-100/735461.jpg",
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Elias-Durmaz-600x871.jpg",
     name: "Elias Durmaz",
     number: "21",
     born: "2000-04-21",
@@ -184,7 +186,8 @@ exports.PlayerData = [
     club: "AIK",
   },
   {
-    imgURL: "",
+    imgURL:
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Aboubakar-Keita-600x871.jpg",
     name: "Aboubakar Keita",
     number: "22",
     born: "1997-11-05",
@@ -194,17 +197,8 @@ exports.PlayerData = [
     club: "AIK",
   },
   {
-    imgURL: "",
-    name: "Lamine Dabo",
-    number: "24",
-    born: "2004-01-30",
-    age: "19",
-    nationality: "Spanien",
-    position: "Mittfältare",
-    club: "AIK",
-  },
-  {
-    imgURL: "",
+    imgURL:
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Victor-Andersson-600x871.jpg",
     name: "Victor Andersson",
     number: "43",
     born: "2004-10-22",
@@ -214,7 +208,8 @@ exports.PlayerData = [
     club: "AIK",
   },
   {
-    imgURL: "",
+    imgURL:
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Taha-Ayari-600x871.jpg",
     name: "Taha Ayari",
     number: "45",
     born: "2005-05-10",
@@ -246,17 +241,8 @@ exports.PlayerData = [
     club: "AIK",
   },
   {
-    imgURL: "",
-    name: "Benjamin Mbunga Kimpioka",
-    number: "34",
-    born: "2000-02-21",
-    age: "23",
-    nationality: "Sverige",
-    position: "Anfallare",
-    club: "AIK",
-  },
-  {
-    imgURL: "",
+    imgURL:
+      "https://d281ovntc614pi.cloudfront.net/content/uploads/2023/03/Alexander-Fesshaie-600x871.jpg",
     name: "Alexander Fesshaie",
     number: "47",
     born: "2004-02-29",

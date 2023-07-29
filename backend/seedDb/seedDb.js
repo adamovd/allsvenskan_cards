@@ -1,6 +1,6 @@
 require("dotenv").config();
 const mongoose = require("mongoose");
-const Player = require("../src/models/Player.ts");
+const Player = require("../models/Player.ts");
 const { PlayerData } = require("./players.ts");
 
 const seedDb = async (connectionString) => {
