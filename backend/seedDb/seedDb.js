@@ -1,9 +1,9 @@
 require("dotenv").config();
 const mongoose = require("mongoose");
-const Player = require("../models/Player");
-const { PlayerData } = require("./players");
+const Player = require("../src/models/Player.ts");
+const { PlayerData } = require("./players.ts");
 
-const seedDb = async (connectionString: string) => {
+const seedDb = async (connectionString) => {
   try {
     mongoose.set("strictQuery", false);
     const conn = await mongoose.connect(connectionString);
@@ -13,7 +13,7 @@ const seedDb = async (connectionString: string) => {
 
     await Player.create(PlayerData);
 
-    console.log("Database succesfully populated with products");
+    console.log("Database succesfully populated with players");
   } catch (error) {
     console.error(error);
   } finally {
@@ -21,4 +21,4 @@ const seedDb = async (connectionString: string) => {
   }
 };
 
-seedDb(process.env.MONGO_CONNECTION_STRING as string);
+seedDb(process.env.MONGO_CONNECTION_STRING);
