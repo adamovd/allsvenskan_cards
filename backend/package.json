@@ -18,7 +18,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node-dev src/app.ts"
+    "start": "ts-node-dev src/app.ts",
+    "seedDb": "node src/seedDb/seedDb.ts"
   },
   "keywords": [],
   "author": "",
