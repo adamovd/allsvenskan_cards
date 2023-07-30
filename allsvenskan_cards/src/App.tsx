@@ -3,24 +3,26 @@ import "./App.css";
 import React from "react";
 import { getAllPlayers } from "./services/playerServices";
 import { IPlayer } from "./models/IPlayer";
+import PlayerCard from "./components/PlayerCard";
+import PresentCards from "./components/PresentCards";
 
 function App() {
   const [players, setPlayers] = useState<IPlayer[]>([]);
   useEffect(() => {
     getAllPlayers().then((players) => {
       setPlayers(players);
+      console.log(players);
     });
   }, []);
 
   return (
     <>
-      {players.map((player) => (
+      <PresentCards></PresentCards>
+      {/* {players.map((player) => (
         <div key={player._id}>
-          <h3>{player.name}</h3>
-          <p>{player.club}</p>
-          <img src={player.imgURL} alt={player.name} />
+          <PlayerCard {...player}></PlayerCard>
         </div>
-      ))}
+      ))} */}
     </>
   );
 }
